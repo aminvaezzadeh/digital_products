@@ -2,3 +2,4 @@ venv/
 .idea/
 **/--pychache--/
 *.pyc
+db.sqlite3
